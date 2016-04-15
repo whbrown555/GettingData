@@ -1,4 +1,4 @@
-#*Human Activity Recognition - Feature Selection*
+#*Human Activity Recognition - Feature Selection Code Book*
 
 -*This document is a subset and adaptation of the features_info.txt file included with the Human Activity Recognition Using Smartphones Dataset, Version 1.0*
 
