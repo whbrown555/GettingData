@@ -30,6 +30,7 @@
 	*Each row is uniquely identified by:* 
 	- *activity codes, subjectID, feature name (which also describes the mean/std metric represented in the feature_value*
 	- *the associated values represent the mean of the associated training and test feature_value*
+- *'features_mean_std.txt' catalogs the modified set of features represented in the summarized dataset.*
 
 > > #Notes: 
 > > - Features are normalized and bounded within [-1,1].
